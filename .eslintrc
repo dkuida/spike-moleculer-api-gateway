@@ -1,10 +1,6 @@
 {
   "parserOptions": {
-    "ecmaVersion": 2017,
-    "ecmaFeatures": {
-      "spread": true,
-      "experimentalObjectRestSpread": true
-    }
+    "ecmaVersion": 2017
   },
   "env": {
     "browser": true,
